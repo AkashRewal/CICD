@@ -20,14 +20,14 @@ stage('Package')
 {
 steps
 {
-echo"packagecompletedsuccessful"
+echo" package completeds uccessful"
 }
 }
 stage('Deploy')
 {
 steps
 {
-echo"deploycompletedsuccessful"
+echo"The deploy completed successful"
 }
 }
 }
